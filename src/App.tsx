@@ -31,7 +31,7 @@ const App = () => {
     }, [page])
     
     return (
-        <div>
+        <div className="all">
             {display}
         </div>
     )
